@@ -8,6 +8,15 @@
     <language>en-us</language>
     <lastBuildDate>Thu, 19 Oct 2017 15:26:15 +0000</lastBuildDate><atom:link href="https://ParkJunGyu26.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>Making a new Website</title>
+      <link>https://ParkJunGyu26.github.io/blog/secondblog/</link>
+      <pubDate>Sun, 14 May 2023 18:54:19 +0900</pubDate>
+      
+      <guid>https://ParkJunGyu26.github.io/blog/secondblog/</guid>
+      <description>test</description>
+    </item>
+    
+    <item>
       <title>Hugo Portfolio Website</title>
       <link>https://ParkJunGyu26.github.io/portfolio/hugo-portfolio-website/</link>
       <pubDate>Fri, 19 Jun 2020 23:00:00 +0000</pubDate>
